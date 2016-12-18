@@ -28,12 +28,12 @@ Niusounds is dojin music circle. Our goal is delivering happiness with music. We
 
 * Turban Shell
 * 竜兵が電子音響音楽応用解析研究所と出会った結果
-* Draemonforce
+* [Draemonforce](works/nsl-1001/)
 * LIVE!! Final Attack at M3
 * タイプ：でんき・はがね
 * 嵐を呼ぶSM SHOW
-* じゅうおん！！
-* EMERALD AN-PUNCH
+* [じゅうおん！！](works/nsl-0001/)
+* [EMERALD AN-PUNCH](works/nsl-0000/)
 * じゅうおん！
 
 ### Compilation
